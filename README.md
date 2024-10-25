@@ -1,10 +1,10 @@
-﻿💻 **C# EĞİTİM KAMPI **
+﻿💻 **C# EĞİTİM KAMPI**
 
 🚩 Bu Git reposu, Murat Yücedağ Eğitmenliğinde gerçekleşen C# Eğitim Kampı süresince tamamladığım C# yazılım dili temellerini kapsayan 8 Projeyi kapsamaktadır.
 
 📌 Aşağıda projeler ile ilgili detaylı açıklamalara ulaşabilirsiniz.
 
-📍** Proje 1 : Yazdırma Komutları**
+📍 **Proje 1 : Yazdırma Komutları**
 
 	Bu projede Console.WriteLine(); ile console üzerinde temel yazdırma komutlarını öğrendim.
 
@@ -13,7 +13,7 @@
 	Bu projede int, string, double, char gibi değişkenleri öğrendim ve bu değişkenler ile örnekler yaparak
 	değişkenler ve veri tipleri kullanımı mantığını anladım.
 
-📍** Proje 3: Karar Yapıları(if-else)**
+📍 **Proje 3: Karar Yapıları(if-else)**
 
 	Bur projede if else , Switch case ve mod alma komutlarını öğrendim. 
 	Farklı koşullar vererek bilgisayar ile iletişim kurmanın temellerini attım.
