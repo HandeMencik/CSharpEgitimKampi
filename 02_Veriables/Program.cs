@@ -110,7 +110,7 @@ namespace _02_Veriables
 
             #endregion
 
-            #region KlavyedenTamSayıGirisleri-ve-Dönüsümler
+            #region KlavyedenTamSayıGirisleri-ve-Dönüsümler(int)
 
             //int shoesPrice, computerPrice;
 
@@ -132,7 +132,7 @@ namespace _02_Veriables
 
             #endregion
 
-            #region KlavyedenOndalıklıSayıİslemleri
+            #region KlavyedenOndalıklıSayıİslemleri(Double)
 
             //double exam1, exam2, result;
 
@@ -150,7 +150,7 @@ namespace _02_Veriables
 
             #endregion
 
-            #region KlavyedenKarakterGirisleri
+            #region KlavyedenKarakterGirisleri(Char)
 
             //char gender;
             //Console.Write("Cinsiyet seçiniz: ");

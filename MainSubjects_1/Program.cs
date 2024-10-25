@@ -27,7 +27,7 @@ namespace MainSubjects_1
 
             #endregion
 
-            #region Değişkenler(Variable)
+            #region Değişkenler(Variable) String
 
             //string
 
